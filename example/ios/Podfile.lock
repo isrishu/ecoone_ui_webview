@@ -1,0 +1,22 @@
+PODS:
+  - ecoone_ui_webview (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - ecoone_ui_webview (from `.symlinks/plugins/ecoone_ui_webview/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+
+EXTERNAL SOURCES:
+  ecoone_ui_webview:
+    :path: ".symlinks/plugins/ecoone_ui_webview/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+
+SPEC CHECKSUMS:
+  ecoone_ui_webview: b7f815e82801baa0feb730b10f4759ebad3307e1
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: 04086928ac30d29c86099577b678fc49a4c1ac0d
+
+COCOAPODS: 1.8.3
